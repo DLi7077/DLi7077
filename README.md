@@ -1,9 +1,9 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLi7077" 
        style=
-       "height:250px"
+       "height:230px"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=DLi7077&theme=blue-green" height="250"
+  <img src="https://github-readme-stats.vercel.app/api?username=DLi7077&theme=blue-green" height="230"
     style="
            overflow: hidden;
            "
