@@ -8,7 +8,7 @@ Aspiring Full Stack Engineer Looking for New Grad roles
 * ✉️  Email [lidevin7077@gmail.com](mailto:lidevin7077@gmail.com)
 * 🧠  Learning full stack development using ReactJS and Typescript/Javascript
 * 🚀  Currently Working on [Katsudon Leetcode Client](https://dli7077.github.io/katsudon-client/#/profile?user_id=6306b34920cf5f80f7d0c20d)
-* 📓  Teaching Assistant at CUNY Hunter College
+* 📓  Undergraduate Teaching Assistant at CUNY Hunter College
 
 ### Skills
 
