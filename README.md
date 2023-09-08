@@ -1,9 +1,3 @@
-Hi I'm Devin
-=========================
-
-Aspiring Full Stack Engineer Looking for New Grad roles
------------------------------------------------------
-
 * 🖥️  Portfolio [https://dli7077.github.io/portfolio/](https://dli7077.github.io/portfolio/)
 * ✉️  Email [lidevin7077@gmail.com](mailto:lidevin7077@gmail.com)
 * 🧠  Learning full stack development using ReactJS and building Express servers with Typescript
