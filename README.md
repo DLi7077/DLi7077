@@ -2,7 +2,7 @@
 * ✉️  Email [lidevin7077@gmail.com](mailto:lidevin7077@gmail.com)
 * 🧠  Learning full stack development using ReactJS and building Express servers with Typescript
 * 🚀  Currently Working on [osu! Song Selection](https://dli7077.github.io/osu-song-selection/)
-* 📓  Undergraduate Teaching Assistant at CUNY Hunter College
+* 📓  Software Engineer at Walmart
 
 ### Skills
 
