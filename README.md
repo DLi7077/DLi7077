@@ -1,7 +1,5 @@
 * 🖥️  Portfolio [https://dli7077.github.io/portfolio/](https://dli7077.github.io/portfolio/)
 * ✉️  Email [lidevin7077@gmail.com](mailto:lidevin7077@gmail.com)
-* 🧠  Learning full stack development using ReactJS and building Express servers with Typescript
-* 🚀  Currently Working on [osu! Song Selection](https://dli7077.github.io/osu-song-selection/)
 * 📓  Software Engineer at Walmart
 
 ### Skills
